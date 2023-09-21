@@ -14,8 +14,8 @@
       "github>kilip/renovate-config:generic-regex-manager"
     ],
     "platform": "github",
-    "username": "olympus-bot[bot]",
-    "gitAuthor": "olympus-bot <132103405+olympus-bot[bot]@users.noreply.github.com>",
+    "username": "doyobot[bot]",
+    "gitAuthor": "doyobot <132103405+doyobot[bot]@users.noreply.github.com>",
     "onboarding": false,
     "requireConfig": "optional",
     "timezone": "Asia/Makassar",
